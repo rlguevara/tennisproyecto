@@ -7,4 +7,4 @@
 ## Built With
 
 * [PHP](https://www.php.net/) - The programming language used.
-* [MySQL](https://www.postgresql.org/) - The World's Most Advanced Open Source Relational Database.
+* [MySQL](https://www.mysql.com/) - The world's most popular open source database.
